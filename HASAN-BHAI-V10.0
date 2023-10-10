@@ -1,5 +1,5 @@
 #hasan_bhai
-#bypss Tutul by HASAN
+#made by HASAN
 import os 
 os.system("pkg install sox -y")
 os.system("play op.mp3")
